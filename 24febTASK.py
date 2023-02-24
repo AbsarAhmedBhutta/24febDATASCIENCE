@@ -1,6 +1,3 @@
-# write a method with take key, value from the user and add that value in the list..
-# ... if key is already filled should return message to user to chose another key. length of list will be 10
-
 def CheckIndexIsFilled(index, val):
     if list_1[index] is not None:
         print("This key is already filled.")
